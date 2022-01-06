@@ -1,13 +1,17 @@
 body{
     font-family: 'Poppins', sans-serif;
-
-    margin: 0px;
+    
+}
+.sec{
+    margin: 3% 11%;
+    border: 1px solid red;
 }
 #stay-focus{
-    font-size: 50px;padding-left: 15px;
+    font-size: 50px;
     border-left: 5px solid red;
-    border-radius: .5px;
-    transition: all .35s;
+    padding-left: 10px;
+    margin-bottom: 30px;
+    margin-top: 110px;
 }
 .mission-color{
     color: rgb(243, 174, 125);
@@ -18,36 +22,31 @@ body{
 }
 .half-width{
     width: 50%;
-    height: 100%;
-    margin: 3%;
-    
+    padding: 10px;
+}
+.half-width p{
+    margin-bottom: 30px;
+    margin-top: 30px;
 }
 .half-width img{
     width:80%;
 }
-.test{
-    padding-left: 100px;
-    padding-top: 100px;
-}
-.elements{
-    margin-bottom: 30px;
-}
-a{
+.half-width a{
     text-decoration: none;
     padding: 10px 40px;
     color: white;
     background-color: tomato;
-    border-radius: 5px;;
+    border-radius: 5px;
 }
 
-.sec{
-    border: 1px solid red;
-}
+
 
 .third-width{
+    border: 1px solid red;
     width: 33%;
-   
-    
+}
+.mission-icon{
+    width:30%;
 }
 
 
