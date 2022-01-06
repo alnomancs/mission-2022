@@ -3,7 +3,7 @@ body{
     
 }
 .sec{
-    margin: 3% 11%;
+    margin: 3% 11% -3%;
     border: 1px solid red;
 }
 #stay-focus{
@@ -38,15 +38,31 @@ body{
     background-color: tomato;
     border-radius: 5px;
 }
-
-
-
 .third-width{
-    border: 1px solid red;
-    width: 33%;
+    width: 33.33%;
+    padding: 0px 2%;
+    border-radius: 1em;
+    margin: 1.5%;
+    height: 100%;
+}
+#mission{
+    background-color: rgb(243, 250, 252);
+}
+#vission{
+    background-color: rgb(250, 240, 252);
+}
+#goal{
+    background-color: rgb(244, 255, 231);
 }
 .mission-icon{
-    width:30%;
+    width: 40%;
+    padding: 4% 0% 0% 3%;
 }
+#my-mission{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
 
 
