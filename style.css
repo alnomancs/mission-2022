@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
-    
+    margin: 0px;
+    padding: 0px;
 }
 .sec{
     margin: 3% 11% 3%;
@@ -12,6 +13,9 @@ body{
     padding-left: 10px;
     margin-bottom: 30px;
     margin-top: 110px;
+    font-family: 'Courgette', cursive;
+    font-family: 'Waterfall', cursive;
+    font-size: 85px;
 }
 .mission-color{
     color: rgb(243, 174, 125);
@@ -63,13 +67,28 @@ body{
     font-weight: 700;
     text-align: center;
 }
-.dev{
-    
-}
 .dev-photo{
     width: 40%;
 }
 .dev-info{
     width: 60%;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+footer h1{
+    font-family: 'Waterfall', cursive;
+    font-size: 50px;
+    font-style: italic;
+}
+footer p{
+    font-size: 20px;
+    color: white;
 }
 
