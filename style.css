@@ -3,8 +3,8 @@ body{
     
 }
 .sec{
-    margin: 3% 11% -3%;
-    border: 1px solid red;
+    margin: 3% 11% 3%;
+    
 }
 #stay-focus{
     font-size: 50px;
@@ -18,11 +18,11 @@ body{
 }
 .flexible-container{
     display: flex;
-
 }
 .half-width{
     width: 50%;
     padding: 10px;
+    
 }
 .half-width p{
     margin-bottom: 30px;
@@ -63,6 +63,13 @@ body{
     font-weight: 700;
     text-align: center;
 }
-
-
+.dev{
+    
+}
+.dev-photo{
+    width: 40%;
+}
+.dev-info{
+    width: 60%;
+}
 
